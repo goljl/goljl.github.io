@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://goljl.github.io/sitemap.xml
