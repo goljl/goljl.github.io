@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://goljl.github.io/sitemap.xml
+Sitemap: http://ieason.xyz/sitemap.xml
