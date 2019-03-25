@@ -17,6 +17,12 @@
   </url>
   
   <url>
+    <loc>http://ieason.xyz/post/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ieason.xyz/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
