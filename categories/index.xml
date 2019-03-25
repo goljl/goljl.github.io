@@ -6,9 +6,19 @@
     <description>Recent content in Categories on 刘杰良的博客空间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <lastBuildDate>Mon, 25 Mar 2019 17:40:42 +0800</lastBuildDate>
     
 	<atom:link href="http://ieason.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arts 打卡计划</title>
+      <link>http://ieason.xyz/categories/arts-%E6%89%93%E5%8D%A1%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Mon, 25 Mar 2019 17:40:42 +0800</pubDate>
+      
+      <guid>http://ieason.xyz/categories/arts-%E6%89%93%E5%8D%A1%E8%AE%A1%E5%88%92/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
