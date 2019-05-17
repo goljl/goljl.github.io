@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 刘杰良的博客空间</title>
+    <title>Posts on 快乐学习网</title>
     <link>http://ieason.xyz/post/</link>
-    <description>Recent content in Posts on 刘杰良的博客空间</description>
+    <description>Recent content in Posts on 快乐学习网</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 25 Mar 2019 17:40:42 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 15:23:19 +0800</lastBuildDate>
     
 	<atom:link href="http://ieason.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>快乐学习--最小可用技能集</title>
+      <link>http://ieason.xyz/post/%E5%BF%AB%E4%B9%90%E5%AD%A6%E4%B9%A0-%E6%9C%80%E5%B0%8F%E5%8F%AF%E7%94%A8%E6%8A%80%E8%83%BD%E9%9B%86/</link>
+      <pubDate>Fri, 17 May 2019 15:23:19 +0800</pubDate>
+      
+      <guid>http://ieason.xyz/post/%E5%BF%AB%E4%B9%90%E5%AD%A6%E4%B9%A0-%E6%9C%80%E5%B0%8F%E5%8F%AF%E7%94%A8%E6%8A%80%E8%83%BD%E9%9B%86/</guid>
+      <description>发明了一个新词，叫「MVS」——「最小可用技能集」。它是指完成一个最常用的流程所用到的最少技能组合。 当实践类技能（比如编程）的知识树特别大的</description>
+    </item>
+    
+    <item>
+      <title>Markdown简体中文与西文混排要点</title>
+      <link>http://ieason.xyz/post/markdown%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E4%B8%8E%E8%A5%BF%E6%96%87%E6%B7%B7%E6%8E%92%E8%A6%81%E7%82%B9/</link>
+      <pubDate>Sun, 31 Mar 2019 16:42:57 +0800</pubDate>
+      
+      <guid>http://ieason.xyz/post/markdown%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E4%B8%8E%E8%A5%BF%E6%96%87%E6%B7%B7%E6%8E%92%E8%A6%81%E7%82%B9/</guid>
+      <description>Markdown 简体中文与西文混排要点 Version: 0.1 李笑来 2019&amp;frasl;03 这篇文档的标题中所使用的措辞是 “要点”，而非 “规范” —— 原因在于这些要点争议颇多。 然而，为了统一编辑，也</description>
+    </item>
     
     <item>
       <title>ARTS打卡计划</title>
